@@ -1,0 +1,3 @@
+when click receipt search for all powers that were assigned to the selected 
+agent on the selected date and if no agents selected or date entered then error msg. Otherwise bring up window that shows the reciept printed out.  
+
